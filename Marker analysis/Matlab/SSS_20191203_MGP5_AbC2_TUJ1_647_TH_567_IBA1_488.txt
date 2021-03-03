@@ -1,0 +1,15 @@
+1 wo2s1
+2 wo1s1
+3 wo1s2
+4 K71s1
+5 K71s2 
+6 wo2s2
+7 1631s1
+8 K72s1
+9 1631s2
+10 epi1s1
+11 1632s1
+12 epi1s2
+13 1632s2
+14 epi2s1
+15 artefact

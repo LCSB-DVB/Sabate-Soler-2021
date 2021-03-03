@@ -1,0 +1,10 @@
+1 wo1s1
+2 wo1s2
+3 wo2s1
+4 K71s1
+5 1631s1
+6 1632s1
+7 epi1s1
+8 epi1s2
+9 epi2s1
+10 epi2s2

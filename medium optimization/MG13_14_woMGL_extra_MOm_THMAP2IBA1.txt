@@ -1,0 +1,9 @@
+1 MG13_all_o1s1
+2 MG13_all_o1s2
+3 MG13_all_o1s3
+4 MG13_all_o2s1
+5 MG13_all_o2s2
+6 MG13_null_o1s1
+7 MG13_null_o1s2
+8 MG13_null_o1s3
+9 artefact

@@ -1,0 +1,16 @@
+9 MOm_o2_s2
+10 MOm_o2_s3
+11 MOm_o3_s2
+12 MGLm_o1_s2
+13 MGLm_o1_s3
+14 MGLm_o2_s2
+15 MGLm_o2_s3
+16 MGLm_o3_s2
+17 MGLm_o3_s3
+18 cc_o1_s2
+19 cc_o1_s3
+20 cc_o2_s1
+21 cc_o2_s2
+22 cc_o2_s3
+23 cc_o3_s1
+24 cc_o3_s2
